@@ -3,7 +3,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=estiwen0x&label=Profile%20Views&color=111111&style=flat" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=estiwen0x&show_icons=true&theme=tokyo-night" alt="estiwen0x Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estiwen0x&layout=compact&theme=tokyo-night" alt="Top Langs" />
+</p>
 ---
 
 ## 💻 Systems, Server & Network Specialist
