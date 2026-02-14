@@ -1,10 +1,6 @@
 # estiwen
 
 <p align="center">
-  <img src="https://cdn.littlepoy.xyz/view/a87bb6df.png" alt="banner" width="100%">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=estiwen0x&label=Profile%20Views&color=111111&style=flat" />
 </p>
 
