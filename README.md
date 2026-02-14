@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.littlepoy.xyz/view/a87bb6df.png" alt="estiwen0x Banner" width="100%" />
+</p>
+
 # estiwen
 
 <p align="center">
@@ -10,8 +14,27 @@
 
 Low-level Windows systems research, server architecture, and network engineering.
 
-I focus on **understanding the system, not just using it**.  
-I design scalable, secure, and high-performance solutions from OS internals to distributed networks.
+> **"Minimal surface. Maximum depth. Control everything, abstract nothing."**
+
+---
+
+## 🔹 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=estiwen0x&show_icons=true&theme=tokyo-night" alt="estiwen0x Stats" />
+</p>
 
 ---
 
@@ -20,38 +43,6 @@ I design scalable, secure, and high-performance solutions from OS internals to d
 - **Windows Internals:** Manual PE loading, memory manipulation, process injection, IAT & TLS handling  
 - **Server Engineering:** High-performance, fault-tolerant server architectures  
 - **Networking:** Custom protocols, routing, and network security analysis  
-- **Security Research:** User-mode loader analysis, reverse engineering, EDR bypass concepts  
-- **Programming:** C, C++, Python (automation & tooling), Bash, PowerShell
-
----
-
-## 🔹 Key Projects (Research-Focused)
-
-- **System Loader Research** — Manual mapping & runtime module handling (inspired by SwiftLoader, fully internal PoC)  
-- **Memory Visualizer** — Low-level memory & PE structure analyzer  
-- **Network Toolkit** — Server-client benchmarking and packet analysis framework  
-
-> Projects are research-oriented. Purpose: **demonstrate deep understanding, not just shipping code**.
-
----
-
-## 🔹 Philosophy
-
-> Minimal surface. Maximum depth. Control everything, abstract nothing.  
-
-I aim to **understand the system completely before touching frameworks or libraries**.
-
----
-
-## 🔹 Tech Stack
-
-| Area | Focus |
-| --- | --- |
-| Systems & Low-Level | C, C++, WinAPI, PE format, Memory Management, Debugging |
-| Networking | TCP/IP, UDP, Routing, Network Security Analysis |
-| Server & Backend | Linux/Windows Servers, High-Performance Networking, Load Balancing |
-| Scripting & Automation | Python, Bash, PowerShell |
-| Tools | x64dbg, IDA, Ghidra, Wireshark, Postman, Git |
 
 ---
 
