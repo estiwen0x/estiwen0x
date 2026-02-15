@@ -24,6 +24,8 @@ I focus on **understanding the system, not just using it.** My work involves des
 
 ### Featured Projects
 
+* **[NoImport](https://github.com/estiwen0x/NoImport)**
+  *Zero-dependency runtime export resolver. Implements manual PEB traversal and EAT parsing to eliminate IAT footprints and bypass static analysis heuristics.*
 * **[NT-Internal-Scanner](https://github.com/estiwen0x/NT-Internal-Scanner)**
   *Header-only C++ library for disk-based SSN recovery and stealthy memory pattern scanning.*
 * **[SwiftLoader](https://github.com/estiwen0x/swiftloader-research)**
