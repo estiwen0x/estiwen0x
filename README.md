@@ -2,60 +2,51 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/estiwen0x/estiwen0x/main/estiwen.png" alt="banner" width="100%">
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=estiwen0x&label=Profile%20Views&color=111111&style=flat" />
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=estiwen0x&label=Views&color=222222&style=flat-square" />
 </p>
----
 
-## 💻 Systems, Server & Network Specialist
+## Systems, Server & Network Specialist
+**Low-level Windows systems research and network engineering.**
 
-Low-level Windows systems research, server architecture, and network engineering.
-
-I focus on **understanding the system, not just using it**.  
-I design scalable, secure, and high-performance solutions from OS internals to distributed networks.
+I focus on **understanding the system, not just using it.** My work involves designing secure, high-performance solutions by interfacing directly with OS internals and bypassing high-level abstractions.
 
 ---
 
-## 🔹 Core Expertise
+### Core Expertise & Research Areas
 
-- **Windows Internals:** Manual PE loading, memory manipulation, process injection, IAT & TLS handling  
-- **Server Engineering:** High-performance, fault-tolerant server architectures  
-- **Networking:** Custom protocols, routing, and network security analysis  
-- **Security Research:** User-mode loader analysis, reverse engineering, EDR bypass concepts  
-- **Programming:** C, C++, Python (automation & tooling), Bash, PowerShell
-
----
-
-## 🔹 Key Projects (Research-Focused)
-
-- **System Loader Research** — Manual mapping & runtime module handling (inspired by SwiftLoader, fully internal PoC)  
-- **Memory Visualizer** — Low-level memory & PE structure analyzer  
-- **Network Toolkit** — Server-client benchmarking and packet analysis framework  
-
-> Projects are research-oriented. Purpose: **demonstrate deep understanding, not just shipping code**.
+* **Windows Internals:** Manual PE mapping, runtime image hijacking, IAT/TLS reconstruction, and direct syscall invocation.
+* **Low-Level Development:** Performance-critical C/C++ engineering with a focus on zero-dependency implementations.
+* **Reverse Engineering:** Analyzing user-mode loaders, EDR hooks, and binary obfuscation techniques.
+* **Network Infrastructure:** Custom protocol design, kernel-mode packet filtering, and high-availability server architectures.
 
 ---
 
-## 🔹 Philosophy
+### Featured Projects
 
-> Minimal surface. Maximum depth. Control everything, abstract nothing.  
+* **[NT-Internal-Scanner](https://github.com/estiwen0x/NT-Internal-Scanner)**
+  *Header-only C++ library for disk-based SSN recovery and stealthy memory pattern scanning.*
+* **[SwiftLoader](https://github.com/estiwen0x/swiftloader-research)**
+  *Research-focused manual PE mapper with robust import resolution and TLS handling.*
 
-I aim to **understand the system completely before touching frameworks or libraries**.
+---
+
+### Technical Proficiency
+
+| Layer | Domain |
+| :--- | :--- |
+| **Languages** | C, C++, x86/x64 Assembly, Python, Systems Scripting |
+| **OS Internals** | WinAPI/NTAPI, PE/COFF Structure, Memory Management, IRQL |
+| **Tooling** | IDA Pro, x64dbg, Ghidra, Wireshark, WinDbg |
 
 ---
 
-## 🔹 Tech Stack
+### Philosophy
+> *Minimal surface. Maximum depth. Control everything, abstract nothing.*
 
-| Area | Focus |
-| --- | --- |
-| Systems & Low-Level | C, C++, WinAPI, PE format, Memory Management, Debugging |
-| Networking | TCP/IP, UDP, Routing, Network Security Analysis |
-| Server & Backend | Linux/Windows Servers, High-Performance Networking, Load Balancing |
-| Scripting & Automation | Python, Bash, PowerShell |
-| Tools | x64dbg, IDA, Ghidra, Wireshark, Postman, Git |
-
----
+I aim to understand the underlying mechanics completely before engaging with any framework. 
 
 <p align="center">
-  <i>"Understand the system first. Then control it." — estiwen</i>
+  <i>"Understand the system first. Then control it."</i>
 </p>
