@@ -38,8 +38,3 @@ Senior Software Engineer specializing in high-performance systems, kernel-level 
 | **NT-Scanner** | Windows NT kernel scanner | C++ |
 | **SwiftLoader** | Custom PE loader with anti-debug | C++ |
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/estiwen0x/estiwen0x/main/footer.png" width="100%">
-</p>
