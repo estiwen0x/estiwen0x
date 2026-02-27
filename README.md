@@ -2,31 +2,33 @@
 
 ---
 
-**System Server & Network Specialist | Windows Internals | Security Research**
+**Systems & Network Specialist | Windows Internals Architect | Security Researcher**
 
 ---
 
-### Stack
+### Technical Expertise
 
 ```
-Languages:       C, C++, Rust, Zig, Python, Node.js, JavaScript
-Low-Level:       x64 ASM, Win32 API, NT API, PE Format, Kernel
-Security:        IDA Pro, Ghidra, WinDbg, Reverse Engineering
-Techniques:      Syscalls, EDR Bypass, Obfuscation, Exploit Dev
-Backend:        Node.js, Python, Express, Databases
+Languages:       C/C++, Rust, Zig, x64 ASM, Python, JavaScript
+Low-Level:       Windows Internals, Kernel-Mode Development, NT API, PE Parsing
+Security:        Reverse Engineering (IDA, Ghidra, WinDbg), Binary Analysis
+Execution:       Manual Mapping, EDR Bypass, Direct Syscalls, Advanced Obfuscation
+Architecture:    High-Performance Backend Systems, Scalable Service Design
 ```
 
 ---
 
-### Contact
+---
 
-| Platform | Link |
-|----------|------|
-| Discord | [estiwen#0001](https://discord.com/users/1332150572362760234) |
-| Email | [poyidle@gmail.com](mailto:poyidle@gmail.com) |
-| Website | [littlepoy.xyz](https://littlepoy.xyz) |
-| GitHub | [estiwen0x](https://github.com/estiwen0x) |
+### Contact Information
+
+| Platform | Resource |
+|----------|----------|
+| **Discord** | [estiwen](https://discord.com/users/1332150572362760234) |
+| **Email** | [poyidle@gmail.com](mailto:poyidle@gmail.com) |
+| **Website** | [littlepoy.xyz](https://littlepoy.xyz) |
+| **GitHub** | [estiwen0x](https://github.com/estiwen0x) |
 
 ---
 
-*Building what others can't even imagine.*
+> *Architecting systems that lie beyond common imagination.*
