@@ -1,49 +1,34 @@
 # Estiwen
 
-> *"I don't just write code — I build systems."*
+> Building what others can't even imagine.
 
 **Windows Internals | Low-Level Development | Security Research**
 
 ---
 
-## Technical Expertise
+## Expertise
 
 ```
-[ C++ ] [ C ] [ Rust ] [ Zig ] [ x64 ASM ]
-[ Win32 API ] [ NT API ] [ PE Format ] [ Kernel ]
-[ IDA Pro ] [ Ghidra ] [ WinDbg ] [ RE ]
-[ Syscalls ] [ EDR Bypass ] [ Obfuscation ]
+Languages:      C++ | C | Rust | Zig | x64 ASM
+Windows:        Win32 API | NT API | PE Format | Kernel
+Security:       IDA Pro | Ghidra | WinDbg | RE
+Techniques:     Syscalls | EDR Bypass | Obfuscation
 ```
 
 ---
 
-## Featured Projects
+## Projects
 
-| Project | Description |
-|---------|-------------|
-| **NoImport** | Advanced import table reconstruction |
-| **NT-Scanner** | Windows NT kernel scanner |
-| **SwiftLoader** | Custom PE loader with anti-debug |
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estiwen0x&show_icons=true&theme=transparent&bg_color=00000000&title_color=00ff88&text_color=71717a&icon_color=00ff88" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estiwen0x&layout=compact&theme=transparent&bg_color=00000000&title_color=00ff88&text_color=71717a" width="40%">
-</p>
+| Name | Focus |
+|------|-------|
+| NoImport | Import table reconstruction |
+| NT-Scanner | Kernel scanner |
+| SwiftLoader | PE loader / anti-debug |
 
 ---
 
-## Connect
+## Contact
 
-- **Discord:** estiwen#0001
-- **Email:** poyidle@gmail.com
-- **Website:** [littlepoy.xyz](https://littlepoy.xyz)
-
----
-
-<p align="center">
-  <sub>Building what others can't even imagine.</sub>
-</p>
+- Discord: estiwen#0001
+- Email: poyidle@gmail.com
+- Web: [littlepoy.xyz](https://littlepoy.xyz)
