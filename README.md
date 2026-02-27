@@ -40,28 +40,6 @@ Senior Software Engineer specializing in high-performance systems, kernel-level 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estiwen0x&show_icons=true&theme=radical&bg_color=030305&title_color=00ff88&text_color=71717a&icon_color=00ff88" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estiwen0x&layout=compact&theme=radical&bg_color=030305&title_color=00ff88&text_color=71717a" alt="Top Languages">
-</p>
-
----
-
-### 🔗 Connect
-
-<p align="center">
-  <a href="https://discord.gg/estiwen">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:poyidle@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/estiwen0x/estiwen0x/main/footer.png" width="100%">
 </p>
