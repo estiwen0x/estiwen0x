@@ -2,20 +2,18 @@
 
 ---
 
-**Windows Internals | Low-Level Development | Security Research**
+**System Server & Network Specialist | Windows Internals | Security Research**
 
 ---
 
 ### Stack
 
 ```
-C/C++          ████████████████████░░    95%
-Rust/Zig       ██████████████░░░░░░░░░    60%
-Python         ████████████████████░░░    90%
-Node.js        ███████████████████░░░░    85%
-Assembly       ████████████████░░░░░░░░░    70%
-Win32/NT       █████████████████████░░░░    92%
-Reverse Eng.   ██████████████████░░░░░░░    85%
+Languages:       C, C++, Rust, Zig, Python, Node.js, JavaScript
+Low-Level:       x64 ASM, Win32 API, NT API, PE Format, Kernel
+Security:        IDA Pro, Ghidra, WinDbg, Reverse Engineering
+Techniques:      Syscalls, EDR Bypass, Obfuscation, Exploit Dev
+Backend:        Node.js, Python, Express, Databases
 ```
 
 ---
